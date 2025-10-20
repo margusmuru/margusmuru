@@ -42,8 +42,6 @@ Horizontally scalable, highly available, multi-tenant log aggregation system<br>
 Open-source observability framework<br>
 [OpenTelemetry collector](https://github.com/margusmuru/homelab-opentelemetry)
 
----
-
 ### Dev
 
 A workflow automation platform for connecting services and APIs.  
