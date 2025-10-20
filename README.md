@@ -6,6 +6,13 @@
   </a>
 </p>
 
+# Demo projects
+This is a  barebones example of how to implement Spring Security with JWT and refresh tokens.<br>
+[Spring security demo](https://github.com/margusmuru/Spring-Java21-security)
+
+Demo project of how to implement OpenTelemetry SDK and run OpenTelemetry Agent with a Java Spring project.<br>
+[Opentelemetry demo](https://github.com/margusmuru/opentelemetrydemo)
+
 # Homelab 
 These repositories leverage GitLab CI/CD to automate the deployment of applications and projects within my homelab environment. Each project is structured with the following components:
 - GitLab pipeline for continuous integration and deployments
