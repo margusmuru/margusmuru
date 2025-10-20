@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Homelab Banner](homelab-banner.png)
 
 <p align="center">
