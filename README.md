@@ -1,4 +1,4 @@
-![Homelab](homelab-banner.png)
+![Homelab](./homelab-banner.png)
 
 <p align="center">
   <a href="https://skillicons.dev">
