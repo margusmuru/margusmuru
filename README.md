@@ -13,6 +13,9 @@ This is a  barebones example of how to implement Spring Security with JWT and re
 Demo project of how to implement OpenTelemetry SDK and run OpenTelemetry Agent with a Java Spring project.<br>
 [Opentelemetry demo](https://github.com/margusmuru/opentelemetrydemo)
 
+K6 load testing scripts for opentelemetrydemo project and generic k6 examples<br>
+[Opentelemetry demo k6](https://github.com/margusmuru/opentelemetrydemo-k6)
+
 # Homelab 
 These repositories leverage GitLab CI/CD to automate the deployment of applications and projects within my homelab environment. Each project is structured with the following components:
 - GitLab pipeline for continuous integration and deployments
